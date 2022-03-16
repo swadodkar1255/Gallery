@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/stylesa.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/yvl1pmk.css">
+<link rel="stylesheet" href="https://use.typekit.net/yvl1pmk.css">
+<link rel="stylesheet" href="https://use.typekit.net/yvl1pmk.css">
+<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+	
+	</style>
+
+<!-- TemplateEndEditable -->	
+	
+</head>
+	
+<body>
+	<
+<div id="container">
+		
+<header></header>
+<nav>
+	<ul>
+		<li><a href="about.html"> About</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="gallery.html">Gallery</a></li>
+		<li><a href="contact.html">Contact</a></li>
+	  
+	</ul>
+</nav>
+		
+  <aside>
+	<h3>Welcome to my website! I am creating this as I lean how to code HTML and CSS.</h3>
+	<h3>Join me aslear web development as I blog! Enjoy!</h3>
+	<h3>by SW</h3>
+  </aside>
+	
+<!-- TemplateBeginEditable name="EditRegion3" -->
+  <main>
+    <h1>Page Title</h1>
+	  
+	  
+	  
+	  
+  </main>
+  <!-- TemplateEndEditable -->
+		
+		
+<footer>
+ 
+</footer>
+</div>
+
+</body>
+</html>
